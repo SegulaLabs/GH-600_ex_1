@@ -21,6 +21,7 @@ network:
   allowed:
     - defaults
     - copilot
+    - awesome-copilot.github.com
     - github.blog
     - github.com
 
@@ -38,6 +39,7 @@ Use the `web_fetch` tool to review:
 
 - https://github.blog/latest/
 - https://github.blog/changelog/
+- https://awesome-copilot.github.com/workflows/
 
 Choose recent, relevant updates that help developers learn GitHub faster. Update
 `site/content/github-info.md` with short, practical summaries, citing the
