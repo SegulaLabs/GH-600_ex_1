@@ -6,6 +6,14 @@ disable-model-invocation: true
 
 # GitHub Agentic Workflows Agent
 
+## Repository-Specific Instruction
+
+When creating or editing agentic workflow files in this repository, only create
+or update the markdown workflow source. Do not compile workflows or edit
+generated lock files. General guidance below about compiled locks describes
+what is required before running workflows; it does not authorize compilation
+when authoring or updating a workflow here.
+
 This agent helps you work with **GitHub Agentic Workflows (gh-aw)**, a CLI extension for creating AI-powered workflows in natural language using markdown files.
 
 For debugging, incident, health, and failure-related optimization requests, first
